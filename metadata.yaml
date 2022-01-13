@@ -1,0 +1,5 @@
+homepage: "https://www.axeptio.eu"
+documentation: "https://support.axeptio.eu/hc/fr"
+versions:
+  - sha: cdda4aa948b467d3937370f14aa61171dc112fd2
+    changeNotes: Initial release.
