@@ -1,5 +1,5 @@
 homepage: "https://www.axeptio.eu"
 documentation: "https://support.axeptio.eu/hc/fr"
 versions:
-  - sha: dd7210b03ab78a91c9273fc3de228cf51959bc19
+  - sha: 24e9d2ed3adfba585831d309ce978ca3d78a55f0
     changeNotes: Initial release.
